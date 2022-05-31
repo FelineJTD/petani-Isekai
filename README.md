@@ -24,7 +24,7 @@ Tugas Besar Logika Komputasi IF2121. Pada tugas besar ini kita diminta untuk mem
 3. if you are in UNIX based system install it with your package manager (ex: `sudo apt install gprolog` for linux and `brew install gnu-prolog` for mac users)
 4. Go to src folder and run program with:
    - If you're using UNIX based system, use linux terminal and change your directory by using `cd <Your-directory>/<Game folder name>/src`
-   - If you're usng windows, use WSL or bash and change your directory by using `cd <Your-directory>/<Game folder name>/src`
+   - If you're using Windows, use WSL or bash and change your directory by using `cd <Your-directory>/<Game folder name>/src`
 5. Type `gprolog` in the terminal and then type `[main].` to compile the program in GNU Prolog.
 6. To start the game type `startGame.` in the prolog command line
 
